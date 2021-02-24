@@ -5,6 +5,7 @@ title: Hugo Learn Documentation
 theme: hugo-theme-learn
 metaDataFormat: yaml
 defaultContentLanguageInSubdir: yes
+Markdown Extra: yes
 publishDir: "docs"
 params:
   author: Mathieu Cornic
